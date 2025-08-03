@@ -6,4 +6,4 @@ The day began with a peaceful *Path and Kirtan* engaging us to calm our minds an
 After the spiritual start we were offered refreshments and tea to keep our energy high for the upcoming events in the induction.
 ### Orientation And Insightful Adresses
 - With our energy levels high and spirits calmed we headed to the college auditorium where we were provided with a starter kit from our college
-<img width="836" height="685" alt="Screenshot 2025-08-03 125627" src="https://github.com/user-attachments/assets/3867c1c0-f4ec-4569-8378-3604d423264c" />
+<img width="1672" height="1370" alt="Screenshot 2025-08-03 125627" src="https://github.com/user-attachments/assets/943e9764-d190-41e6-8416-694e02cc43a2" />
