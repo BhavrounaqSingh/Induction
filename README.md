@@ -1,4 +1,4 @@
-# Day 1
-## 8:30 - 9:30
+# Induction - Day 1
+###
 - list 1
 - list 2
