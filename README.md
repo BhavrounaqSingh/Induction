@@ -22,3 +22,16 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 - Dr. K.S. Mann is the head of our I.T. (Information Technology Dept.). He is a knowldgeable and reputed person.he came to adress us both in the main event and then the department introduction event. He enlightened us all on the basics of the journey we are to partake and also cleared all the doubts we had regarding our branch of engineering.  
 ## Day 1 END
 
+# Induction - Day 2
+### An Out Of The Blue Test
+![528039927_18025573325714801_7721067810310036860_n](https://github.com/user-attachments/assets/29da46a1-077a-45ab-8f73-9f4085d3d9ce)
+- The second day of our induction process kicked out with a mathematics and english proficiency test. These were conducted section wise by our seniors. Although easy they were a mixture of a variety of topics thus, we found them a little challenging. These tests also helped us interact with our seniors and provided an oppurtunity to revise what we know and assess ourselves for further improvement.
+### A Couple Of Interactive Sessions
+![527053475_18025573310714801_8806156740558332040_n](https://github.com/user-attachments/assets/b409b765-784e-425e-b22f-cb2129eb3f00)
+- Further into the day we had a couple of interactive and informative sessions in the seminar hall. These included a session organised by **Buddy4Study** a wonderful organisation who provided scholarships in the tuition fee for under-priviledged students.They distibuted flyers and also helped the interested students resgister for the scholarship on the spot. Next, we had **Dr.Arshdeep Singh** an engineer in the Department of Food Sciences, Punjab Agricultural University inform us about healthy eating habits and balanced diet that we as students should incorporate in ourr daily life, so as to remain productive and energetic throughout the day. The last session was taken by **Dr. Priya Darshini** maam on **UHV** i.e- Universal Human Values where she taught us about how a materialistic mindset can lead to our mental ruin and we should all appreciate the people around us , the tiny moments of joy and all the spiritual things that bring colour to our life.
+### Github Session by Causmic Club
+![527563378_18025573343714801_2539073676930009413_n](https://github.com/user-attachments/assets/500b2217-32e1-4aa6-b18d-44ad194b87c9)
+- The last session of the day was organised by our seniors of the causmic club to teach us about an important tool **Github**. In this session our seniors helped us to register at github by setting up an account and also introduced us all to github. The explained us the basic syntax and the procedure of opening and operating a repository thanks to which I am able to make this report today.
+## Day 2 END
+
+  
