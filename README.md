@@ -1,4 +1,4 @@
-# Induction - Day 1
+# Induction - Day 1 - My First Day At GNDEC
 ### A Spiritual Start
 - As per the given schedule when we arrived to the campus we were guided to the campus gurudwara where we started off our exciting student journey by first obtaining the blessings of the wonderful **Akaal Purakh**
  ![526178724_18025218896714801_2696879820071489812_n](https://github.com/user-attachments/assets/e5dccc62-d9b7-4c59-80d6-d8ede068406c)
@@ -22,7 +22,7 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 - Dr. K.S. Mann is the head of our I.T. (Information Technology Dept.). He is a knowldgeable and reputed person.he came to adress us both in the main event and then the department introduction event. He enlightened us all on the basics of the journey we are to partake and also cleared all the doubts we had regarding our branch of engineering.  
 ## Day 1 END
 
-# Induction - Day 2
+# Induction - Day 2 - Proficiency And Health
 ### An Out Of The Blue Test
 ![528039927_18025573325714801_7721067810310036860_n](https://github.com/user-attachments/assets/29da46a1-077a-45ab-8f73-9f4085d3d9ce)
 - The second day of our induction process kicked out with a mathematics and english proficiency test. These were conducted section wise by our seniors. Although easy they were a mixture of a variety of topics thus, we found them a little challenging. These tests also helped us interact with our seniors and provided an oppurtunity to revise what we know and assess ourselves for further improvement.
@@ -33,5 +33,19 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 ![527563378_18025573343714801_2539073676930009413_n](https://github.com/user-attachments/assets/500b2217-32e1-4aa6-b18d-44ad194b87c9)
 - The last session of the day was organised by our seniors of the causmic club to teach us about an important tool **Github**. In this session our seniors helped us to register at github by setting up an account and also introduced us all to github. The explained us the basic syntax and the procedure of opening and operating a repository thanks to which I am able to make this report today.
 ## Day 2 END
+# Day - 3 - Developing Curiosity And Wellness
+### A Calming Start 
+- The day begin with all the students gathering together in the college auditorium. after settling down we all chanted mool mantra to calm our minds as we waited for our honorable speaker
+### A Powerful Message
+![527458097_18025641629714801_4616902849937385670_n](https://github.com/user-attachments/assets/857d503c-cf62-4525-b6f6-8dd1353573d8)
+- **Dr. Jaswinder Singh**, Incharge of IAPT, delivered a fascinating lecture titled **Science, Mathematics And God**. In this lecture he talked about how we should not memorise rather learn our studies as to learn is to truly appreciate and acknowledge the creator's creation i.e- our universe. He taught us that studies do not have to be boring and bookish but rather fun and engaging by performing various avtivites. He also asked for volunteers to help him on stage and interacted with us wonderfully making us lose the track of time. He also laid stress on the fact that as human beings it is our nature to be curious and we should always preserve our curiosty.
+### UHV Session 1 Continues
+![527371335_18025641659714801_86133225162104158_n](https://github.com/user-attachments/assets/ea784559-0c36-4322-ba08-73290a34fee5)
+- Next, we attended a reflective session by **Dr. Priya Darshni** on  Universal Human Values which was a continuation of yesterday's lecture. She taught us about how to differentiate between needs and wants and how to feel satisfied with what one has rather than keep running for extra as that only brings discomfort and mental disturbance without providing any happiness. She taught us that materialistic things may bring us momentary joy but true happiness lies within and we should look for it inside our minds rather than the world outside.
+## Day 3 END
+- Overall this day was really enjoyable along with some really deep and rather important messages we taught today.
+# Day - 4 - Classes And Campus Exploration
+### First Lecture Of The Day
+- The first lecture of the day was 
 
   
