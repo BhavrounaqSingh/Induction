@@ -46,6 +46,19 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 - Overall this day was really enjoyable along with some really deep and rather important messages we taught today.
 # Day - 4 - Classes And Campus Exploration
 ### First Lecture Of The Day
-- The first lecture of the day was 
+- The first lecture of the day was of **Professional English Communication**. It was an enjoyable and interactive lecture as we all gave our introductions and we were also tasked to identify and state our strengths and weaknesses. We also we tasked with writing down reasons for why we chose our college and branch. Overall it was a fun and informative session that helped us to introspect ourselves.
+### Second Lecture Of The Day
+- The second lecture of the day was of **Chemistry** by Karan Bhalla sir. The session began with brief student-teacher introductions and ended with a little discussion on the semester curriculum and subject expectations. Sir asked us some basic questions about what we already know and encouraged us to perform well in college.
+### UHV Session 2
+![528693445_18025796003714801_9157680642123055128_n (1)](https://github.com/user-attachments/assets/84c2ee2d-7aaf-4d6d-ac7d-d3c2ae2ae934)
+- After the classes our proceeded on with another lecture on **UHV** by Dr.Priya Darshini ma'am. The session was extremely thought provoking on how we should prioritize our happiness and how to balance our college curriculum with all the extracurriculars, hobbies and sports that we should engage in.
+### Interaction by Causmic Club
+![527402599_18025796012714801_4958646422152818830_n](https://github.com/user-attachments/assets/4b1de0cc-444b-4cc4-9c5b-3593ae446a23)
+- The last lecture of the day was hosted by our seniors of the **Causmic Club**. They told us about various clubs and extracurricular activities that we can take part in college. Then they concluded their lecture by providing us crucial information on how to buy a laptop for our 4 years at college so that we can complete our studies without any hiccups
+## Day 4 END
+- Day 4 ended with a musical note as there was a beautiful musical performance by two of our seniors
+# Day - 5 - Coding, Circuits and Physics
+
+
 
   
