@@ -58,7 +58,37 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 ## Day 4 END
 - Day 4 ended with a musical note as there was a beautiful musical performance by two of our seniors
 # Day - 5 - Coding, Circuits and Physics
-
-
+### A Programmable Start
+![528039927_18025573325714801_7721067810310036860_n](https://github.com/user-attachments/assets/3a519107-47d6-4db1-b1a6-9e602faf4462)
+- Day 5 started off with an interactive and fun lecture on basics of C++ by our knowledgeable seniors.They taught us the basic syntax and also introduced to us many new programming terminology along with some basic programmes.
+### Introduction To BEEE
+- Next we had our BEEE lecture taken by **Simranjeet Ma'am**. She kicked off the lecture by student introductiomns to make a friendly environment and then helped us revise the basics which we studied in school so as to smoothen out our transition to the university level.
+### Physics Curriculum and Practials Overview
+- The last lecture of the day of physics where we began with introductions and then our teacher explained the curriculum and basic practials syllabus that we would perform in the next semester and advised us to revise these topics beforehand for better understanding
+## Day 5 END
+-Overall the day was pretty fruitful in terms of progressing our curriculum and provided us with invaluable insights
+# Day - 6 - Math,Programming ends with Motivation
+### Math - a dread turned into a source of joy
+- The first lecture of the day was taken by our maths porffesor **Sukhminder Sir**. He is a man of action and skipped the introduction phase and went straight to teaching. He started of light as he knew that most of us say maths and equations as a dreadful task and informed us about 3 extremely useful apps so as to help us visualise equations and conquer our fear of them.
+### Programming Continues
+- The next lecture was hosted by our seniors and further continued our programming lessons where they were left yesterday. They helped us learn things further and somewhat complex and made sure that we were getting evrything by helping us write a simple program by ourselves and cleared any doubts that we had
+### Inspiration And Motivation
+- As a part of our evening schedule we headed into the auditorium where we were first adressed by **S.Gurcharan Singh Grewal** who is a trustee of GNDEC. He inspired us to become great by telling us varous stories of his own youth and how our peers have succedded in making out a name for our college and how we should strive to do the same
+- Next **Dr. Lakhvir Singh Khanna**enlightened us about the importance of the 4 years we are attending the college and how we can make the most of them by practicing various skills using **Swyam NPTEL**
+- courses that the government of indian offers and also told us about the Centre for Multifaceted Learning and how it would be beneficial for our personal and academic growth.
+## Day 6 END
+- This day left us with a burning desire to be great and also assured us that our teachers are our true strengths that can help us acheive that
+# Day - 7 - Clubs and Academics
+### Special Sessions In The Auditorium 
+- Today as the final day of our Induction, our day began in the auditorium where various personalities interacted with us like:
+- **Dr. Parminder Songh** (Dean Student Wellfare) provided us with valuable insights on upcoming cultural fests and programmes,student clubs and campus programmes and also told us about **NSS**(Nationa Service Scheme)
+- **Dr. Amit Kamra** Incharge of the Digital Marketing Club , Informed us about DMC and the various activites performed by them. He showed us various student made videos and also told us about the club's crucial role of maintaining all the social pages of our college. He also informed us that recruitments for DMC for freshers are starting soon.
+- **Dr. Randhir Sir**told us about important information about our semester exams and mst and also explained the importance of our college website and all the facilities we can avail through it.
+### Water CHemistry - A new start
+- After the auditorium sessions we then headed to our classes where our first lecture was of chemistry wher our professor started a new topic of **Water Chemistry**. He taught us many basics things like how water impurities contribute to hardness of water and how to treat it. The session was enjoyable as sir also inquired us about many things that we could answeer.
+### Introduction  to Calculus
+- Last lecture of the day was of maths where we started with basic integration and differentiation formulae and concepts that would help us further in our studies.
+## Day 7 END
+- Today was a productive day filled with useful insights about campus life, clubs, and digital engagement followed by informative lectures in chemistry and maths.
 
   
