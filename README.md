@@ -84,7 +84,7 @@ After the spiritual start we were offered refreshments and tea to keep our energ
 - **Dr. Parminder Songh** (Dean Student Wellfare) provided us with valuable insights on upcoming cultural fests and programmes,student clubs and campus programmes and also told us about **NSS**(Nationa Service Scheme)
 - **Dr. Amit Kamra** Incharge of the Digital Marketing Club , Informed us about DMC and the various activites performed by them. He showed us various student made videos and also told us about the club's crucial role of maintaining all the social pages of our college. He also informed us that recruitments for DMC for freshers are starting soon.
 - **Dr. Randhir Sir**told us about important information about our semester exams and mst and also explained the importance of our college website and all the facilities we can avail through it.
-### Water CHemistry - A new start
+### Water Chemistry - A new start
 - After the auditorium sessions we then headed to our classes where our first lecture was of chemistry wher our professor started a new topic of **Water Chemistry**. He taught us many basics things like how water impurities contribute to hardness of water and how to treat it. The session was enjoyable as sir also inquired us about many things that we could answeer.
 ### Introduction  to Calculus
 - Last lecture of the day was of maths where we started with basic integration and differentiation formulae and concepts that would help us further in our studies.
